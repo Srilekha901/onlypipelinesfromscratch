@@ -18,6 +18,16 @@ Silver Layer (clean Parquet)
 ↓
 Gold Layer (business-ready Parquet)
 
+## Pipeline Screenshots
+
+### ADF Pipeline — Succeeded
+![ADF Pipeline](screenshots/adf_pipeline_success.png)
+
+### Bronze Layer — Data Landed in ADLS Gen2
+![Bronze Layer](screenshots/bronze_layer.png)
+
+### Gold Layer — Final Output in Databricks
+![Gold Layer](screenshots/gold_layer.png)
 
 
 ## Tech Stack
